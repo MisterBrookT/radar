@@ -1,0 +1,9 @@
+[Unit]
+Description=GenUI Daily at 07:30 Asia/Shanghai
+
+[Timer]
+OnCalendar=*-*-* 07:30:00 Asia/Shanghai
+Persistent=true
+
+[Install]
+WantedBy=timers.target

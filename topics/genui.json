@@ -1,0 +1,12 @@
+{
+  "name": "genui",
+  "title": "Generative UI",
+  "scope": "Core work concerns AI generating or adapting the interface itself: layout, components, interactive workflows, or directly renderable UI structures. Evaluation of that generation can qualify. An agent/UI protocol qualifies only with an actual supported UI-generation/rendering contribution. Generic model/agent/MCP infrastructure, listicles and unsupported marketing do not qualify. A fixed interface using an LLM to generate content or chart specifications is adjacent unless interface generation/adaptation itself is a substantive contribution. VisCanvas is adjacent LLM-assisted visualization authoring in a fixed node canvas, not a core GenUI headline. Older foundational work can be dated background, never this week's new release.",
+  "paper_terms": ["generative UI", "generative user interface", "generative interfaces", "UI generation", "interface generation", "adaptive interface", "agent interface", "GUI generation", "malleable interface", "frontend generation", "front-end generation", "website generation", "webpage generation", "UI synthesis", "GUI synthesis", "UI code generation", "AI-generated UI", "LLM-generated UI"],
+  "arxiv_set": "cs",
+  "arxiv_categories": ["cs.HC", "cs.AI", "cs.CL", "cs.SE", "cs.CV", "cs.LG", "cs.MA"],
+  "hci_ai_interface_fallback": true,
+  "search_queries": ["generative UI", "genUI", "A2UI", "MCP-UI", "AG-UI", "MCP apps", "agent UI", "UI generation", "generative interface", "AI generated UI"],
+  "github_repositories": ["google/A2UI", "mcp-ui-org/mcp-ui", "ag-ui-protocol/ag-ui", "CopilotKit/CopilotKit"],
+  "max_stories": 4
+}

@@ -1,0 +1,8 @@
+[Unit]
+Description=Retry GenUI Daily delivery every 20 minutes, 08:00-23:40
+
+[Timer]
+OnCalendar=*-*-* 08..23:00/20:00 Asia/Shanghai
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,11 @@
+[project]
+name = "radar-briefing"
+version = "0.1.0"
+description = "Topic-adaptive, source-grounded weekly research briefings"
+requires-python = ">=3.12"
+dependencies = [
+    "cryptography>=46.0.0",
+    "httpx>=0.28.1",
+    "imageio-ffmpeg>=0.6.0",
+    "playwright>=1.63.0",
+]

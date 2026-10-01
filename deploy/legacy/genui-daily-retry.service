@@ -1,0 +1,7 @@
+[Unit]
+Description=GenUI Daily: retry WeChat delivery (WeChat only allows sends in a recent chat)
+
+[Service]
+Type=oneshot
+ExecStart=%h/.local/lib/genui-daily/deploy/run-daily.sh --from deliver
+TimeoutStartSec=20min

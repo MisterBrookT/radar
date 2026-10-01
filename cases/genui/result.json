@@ -1,0 +1,18 @@
+{
+  "topic": "genui",
+  "period": {"start": "2026-09-25", "end_inclusive": "2026-10-01", "timezone": "UTC", "current_day_partial": true},
+  "producer": "Radar project-owned autonomous pipeline",
+  "topics": ["AUV-Bench aesthetic judgment versus UI generation and repair", "CopilotKit native Angular A2UI rendering"],
+  "primary_sources": ["https://arxiv.org/abs/2609.34854", "https://github.com/CopilotKit/CopilotKit/pull/7504", "https://github.com/CopilotKit/CopilotKit/releases/tag/v1.75.1"],
+  "related_context": ["https://github.com/google/A2UI"],
+  "duration_seconds": 157.2571428571428,
+  "semantic_caption_units": 43,
+  "narration_language": "en",
+  "caption_languages": ["en", "zh-CN"],
+  "video_bytes": 4824663,
+  "video_sha256": "a17e2a6335333c0239548bb90f463228ac6bfe071b0f2777c9ede005cfd5a11d",
+  "checks": {"worker_exit_codes": [0, 0, 0], "orchestrator_exit_code": 0, "full_decode": "passed", "local_remote_hash_match": true, "encoded_review_frames_inspected": 6},
+  "delivery": {"api_status": "accepted", "accepted_parts": 2, "replayed": false, "recipient_review": "watched and approved"},
+  "generated_artifacts_committed": false,
+  "recurring_schedule_enabled": false
+}

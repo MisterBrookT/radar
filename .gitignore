@@ -1,0 +1,17 @@
+runs/
+.venv/
+__pycache__/
+.private/
+.env
+.env.*
+*.pyc
+.DS_Store
+# Generated run artifacts and private account/session files do not belong in source.
+*.mp4
+*.wav
+*.onnx
+*.onnx.json
+auth.json
+account.json
+state.json
+delivery-*.json
